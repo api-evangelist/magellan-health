@@ -7,7 +7,7 @@ description: >-
   Health was acquired by Centene Corporation in January 2022 and operates as a
   Centene subsidiary. This repository tracks any APIs, developer tools, and
   machine-readable API artifacts made publicly available by Magellan Health.
-type: Contract
+kind: contract
 position: Consuming
 access: 3rd-Party
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
