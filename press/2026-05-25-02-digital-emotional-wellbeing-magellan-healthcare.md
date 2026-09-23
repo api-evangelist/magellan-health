@@ -1,7 +1,9 @@
 ---
 title: Digital Emotional Wellbeing - Magellan Healthcare
 url: https://www.magellanhealthcare.com/digital-bh/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Magellan Health" press release artificial intelligence'
 position: 2
 source: serpapi-google

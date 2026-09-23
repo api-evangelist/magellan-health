@@ -1,7 +1,9 @@
 ---
 title: Centene Completes Acquisition of Magellan Health ...
 url: https://www.prnewswire.com/news-releases/centene-completes-acquisition-of-magellan-health-establishing-a-leading-behavioral-health-platform-at-a-critical-time-301453788.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Magellan Health" press release artificial intelligence'
 position: 5
 source: serpapi-google
